@@ -1,5 +1,5 @@
 ### Production
-app is hosted by vercel:
+app is hosted by vercel: https://resonate-contact-self.vercel.app/
 
 
 # Contact List
